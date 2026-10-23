@@ -1,0 +1,13 @@
+# Entornos virtuales
+.venv/
+venv/
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+
+# Cobertura
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
